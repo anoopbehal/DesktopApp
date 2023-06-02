@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "803a2258-470e-4d55-a1e0-e717aa173e3d": {
+      "ProjectGuid": "803a2258-470e-4d55-a1e0-e717aa173e3d",
+      "DisplayName": "WindowsFormsAppForCSHarp",
+      "ColorIndex": 0
+    },
+    "1a999818-f841-4e10-bd5d-0d13c926a2df": {
+      "ProjectGuid": "1a999818-f841-4e10-bd5d-0d13c926a2df",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
